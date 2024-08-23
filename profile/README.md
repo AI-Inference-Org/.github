@@ -53,6 +53,8 @@ We have used **Spheron** for deploying our AI models, ensuring that they are eas
 
 You can follow this docker.yml file for deploying on spheron:-[docker.yml file for deploying on Spheron](https://github.com/AI-Inference-Org/Chat_Model/blob/main/docker-compose.yml).
 
+If you need a gpu for deploying LLMS you can use this script:-[docker.yml file for deploying on Spheron](https://github.com/AI-Inference-Org/Chat_Model/blob/main/text.txt)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
