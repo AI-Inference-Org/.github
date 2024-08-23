@@ -51,6 +51,8 @@ To ensure the security, transparency, and decentralization of our marketplace, w
 
 We have used **Spheron** for deploying our AI models, ensuring that they are easily accessible and securely hosted in a decentralized manner. Spheron provides a seamless deployment process and leverages the power of decentralized storage, making it an ideal choice for our platform.
 
+You can follow this docker.yml file for deploying on spheron:-[docker.yml file for deploying on Spheron](https://github.com/AI-Inference-Org/Chat_Model/blob/main/docker-compose.yml).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
